@@ -33,6 +33,6 @@ Layout is a recursive process. It begins at the root renderer.
 ### Paint operation 
 In the painting stage, the render tree is traversed and the rendere's __paint()__ method is called to display content on the screen. 
 Painting uses the UI infrastructure components.
-### Resources & links 
+### Resource 
 * [Browser Rendering video lecture.](https://www.youtube.com/watch?v=SmE4OwHztCc&t=1477s)
 * [How Browsers Work: Behind the scenes of modern web browsers](https://www.html5rocks.com/en/tutorials/internals/howbrowserswork/#Introduction)
