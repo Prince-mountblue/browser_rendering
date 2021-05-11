@@ -27,6 +27,7 @@ Responsible for displaying requested content. Content Like (HTML, CSS)
 When the browser reads HTML code, it creates a JavaScript object call a __Node__.
 * All the elements will be coverted to JavaScript Objects.
 * After the browser has created _Nodes_ from the HTML document, it has to create a __tree-like structure__ of these node objects.
+ 
 ![Dom tree in details](https://miro.medium.com/max/1040/1*YSA8lCfCVPn3d6GWAVokrA.png)
 * We can visualize the DOM tree in Google Chrome DevTools
 ![Chrome](https://miro.medium.com/max/700/1*Uo2wfq060OMSLyTTCm2zFw.png)
